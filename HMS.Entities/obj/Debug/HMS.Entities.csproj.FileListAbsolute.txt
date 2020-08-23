@@ -1,0 +1,5 @@
+C:\Users\opv28\source\repos\HMS\HMS.Entities\bin\Debug\HMS.Entities.dll
+C:\Users\opv28\source\repos\HMS\HMS.Entities\bin\Debug\HMS.Entities.pdb
+C:\Users\opv28\source\repos\HMS\HMS.Entities\obj\Debug\HMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\opv28\source\repos\HMS\HMS.Entities\obj\Debug\HMS.Entities.dll
+C:\Users\opv28\source\repos\HMS\HMS.Entities\obj\Debug\HMS.Entities.pdb

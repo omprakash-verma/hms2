@@ -1,0 +1,16 @@
+C:\Users\opv28\source\repos\HMS\HMS.Data\bin\Debug\HMS.Data.dll.config
+C:\Users\opv28\source\repos\HMS\HMS.Data\bin\Debug\HMS.Data.dll
+C:\Users\opv28\source\repos\HMS\HMS.Data\bin\Debug\HMS.Data.pdb
+C:\Users\opv28\source\repos\HMS\HMS.Data\bin\Debug\EntityFramework.dll
+C:\Users\opv28\source\repos\HMS\HMS.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\opv28\source\repos\HMS\HMS.Data\bin\Debug\HMS.Entities.dll
+C:\Users\opv28\source\repos\HMS\HMS.Data\bin\Debug\HMS.Entities.pdb
+C:\Users\opv28\source\repos\HMS\HMS.Data\bin\Debug\EntityFramework.xml
+C:\Users\opv28\source\repos\HMS\HMS.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\opv28\source\repos\HMS\HMS.Data\obj\Debug\HMS.Data.csprojAssemblyReference.cache
+C:\Users\opv28\source\repos\HMS\HMS.Data\obj\Debug\HMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\opv28\source\repos\HMS\HMS.Data\obj\Debug\HMS.Data.csproj.CopyComplete
+C:\Users\opv28\source\repos\HMS\HMS.Data\obj\Debug\HMS.Data.dll
+C:\Users\opv28\source\repos\HMS\HMS.Data\obj\Debug\HMS.Data.pdb
+C:\Users\opv28\source\repos\HMS\HMS.Data\obj\Debug\HMS.Data.Migrations.BasicEntities.resources
+C:\Users\opv28\source\repos\HMS\HMS.Data\obj\Debug\HMS.Data.csproj.GenerateResource.cache
